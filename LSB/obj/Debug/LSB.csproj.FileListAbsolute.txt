@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\bin\Debug\LSB.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\bin\Debug\LSB.exe
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\bin\Debug\LSB.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\obj\Debug\LSB.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\obj\Debug\LSB.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\obj\Debug\LSB.exe
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\obj\Debug\LSB.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\obj\Debug\LSB.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\LSB\LSB\obj\Debug\LSB.Form1.resources
